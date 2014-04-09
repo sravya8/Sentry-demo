@@ -34,4 +34,3 @@ done
 kinit -kt ${keytab_location}/${reader}.keytab ${reader}
 curl --negotiate -u: http://${solr_server}:8983/solr/${collection1}/query?q=*:*
 curl --negotiate -u: http://${solr_server}:8983/solr/${collection1}/query?q=*:*
-
