@@ -2,7 +2,7 @@ Some resources to get started to setup Sentry to secure access to Impala, Hive a
 
 Contains:
 
-* impala_hive/sentry-provider.ini:
+* hive_impala/sentry-provider.ini:
 Sample Sentry policy file for Impala and Hive
 
 * search/sentry-provider.ini:
